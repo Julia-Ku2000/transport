@@ -1,0 +1,62 @@
+.about {
+    display: inline-block;
+}
+
+.left {
+    margin-top: 30px;
+    margin-left: -280px;
+    color: black;
+    font-family: Luminari, fantasy;
+}
+
+#delButton {
+    margin-left: 120px;
+    margin-top: -54px;
+    inline-size: 107px;
+}
+
+.userInfo {
+    margin-left: 790px;
+    margin-top: -590px;
+}
+
+.editBody {
+    margin-top: 20px;
+    background-color: rgba(210, 226, 243, 0.7);
+    border: solid rgba(210, 226, 243, 0.7);
+    margin-left: -250px;
+}
+
+.editForm {
+    margin-top: 20px;
+    background-color: rgba(210, 226, 243, 0.7);
+    border: solid rgba(210, 226, 243, 0.7);
+    margin-left: 20px;
+}
+
+.userInfoEstate {
+    margin-left: 1100px;
+    margin-top: -450px;
+}
+
+.userInfoTravel {
+    margin-left: 900px;
+    margin-top: -650px;
+}
+
+.body {
+    background-color: rgba(210, 226, 243, 0.7);
+    height: 100%;
+}
+
+.form {
+    width: 1500px;
+    margin-top: 20px;
+    background-color: rgba(210, 226, 243, 0.7);
+    border: solid rgba(210, 226, 243, 0.7);
+    margin-left: -140px;
+}
+
+tr:hover td {
+    background: rgba(51, 51, 153, .1);
+}
